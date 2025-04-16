@@ -12,4 +12,4 @@ Topic Cover: ?
 3. loc
 4. iloc
 5. import & export data
-6. Selecting Index Data
+6. Inspecting Data
