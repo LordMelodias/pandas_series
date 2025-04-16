@@ -1,0 +1,53 @@
+Name	Age	City
+Alice	24	New York
+Bob	30	Los Angeles
+Charlie	28	Chicago
+David	35	Houston
+Eve	22	Phoenix
+Frank	40	Philadelphia
+Grace	29	San Antonio
+Henry	31	San Diego
+Ivy	26	Dallas
+Jack	33	San Jose
+Katie	27	Austin
+Liam	38	Jacksonville
+Mia	25	Fort Worth
+Noah	42	Columbus
+Olivia	23	Charlotte
+Peter	36	San Francisco
+Quinn	34	Indianapolis
+Rachel	39	Seattle
+Samuel	45	Denver
+Tina	28	Washington
+Uma	32	Boston
+Victor	37	El Paso
+Wendy	30	Nashville
+Xander	41	Oklahoma City
+Yara	27	Las Vegas
+Zane	35	Portland
+Aaron	29	Detroit
+Bella	26	Miami
+Caleb	44	Memphis
+Diana	31	Atlanta
+Ethan	33	Baltimore
+Fiona	28	Milwaukee
+George	47	Albuquerque
+Hazel	25	Tucson
+Ian	39	Fresno
+Jenna	30	Sacramento
+Kevin	36	Kansas City
+Luna	24	Mesa
+Mason	43	Colorado Springs
+Nora	27	Omaha
+Oscar	38	Raleigh
+Penny	29	Virginia Beach
+Quincy	35	Oakland
+Riley	32	Minneapolis
+Sophia	26	Arlington
+Tyler	45	Wichita
+Ursula	31	Aurora
+Vince	34	New Orleans
+Willow	28	Cleveland
+Xavier	40	Tampa
+Yvonne	33	Anaheim
+Zoe	29	Honolulu
