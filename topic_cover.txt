@@ -14,3 +14,4 @@ Topic Cover: ?
 5. import & export data
 6. Inspecting 
 7. Selecting Index Datas
+8. Cleaning Data
