@@ -9,9 +9,10 @@ Pandas can clean messy data sets, and make them readable and relevant data.
 Topic Cover: ?
 1. Series
 2 .Dataframe
-3. loc
-4. iloc
+3. loc (Selecting Index Data)
+4. iloc (Selecting Index Data)
 5. import & export data
 6. Inspecting 
 7. Selecting Index Datas
 8. Cleaning Data
+9. 
