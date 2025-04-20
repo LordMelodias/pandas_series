@@ -45,3 +45,15 @@ The following datasets are included in this project for demonstration purposes:
 9. **Aggregation & Grouping** – Using `groupby()` with aggregation functions.
 10. **Merging & Joining** – Combining multiple datasets.
 11. **Data Visualization** – Visualizing data using `matplotlib` and pandas' built-in plotting.
+
+
+# Projects
+
+1. Simple Project:
+   
+- Description: A simple data engineering pipeline to clean, store, and visualize e-commerce sales data. This project loads dataset1.csv, cleans missing values and duplicates, stores the data in a SQLite database, and creates basic visualizations (line and bar plots) to analyze sales and profit trends.
+
+2.Beginner-Friendly Sales Data Pipeline:
+
+- Description: An ETL pipeline with automation, data validation, and an interactive dashboard. This project processes dataset1.csv using modular functions, validates data (e.g., negative sales), stores it in a SQLite database with a defined schema, and creates an interactive Plotly dashboard to explore sales, profit, and profit margin trends.
+
